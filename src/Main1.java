@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main1 {
+public class Main1 {
     public static void main(String[] args) {
         System.out.println("Say something...");
         /**    int a = 5, b = 10;
